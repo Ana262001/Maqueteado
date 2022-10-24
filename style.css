@@ -1,0 +1,23 @@
+body {
+  background-image: url(Img/samsung-memory-dB35eYJ2pJg-unsplash.jpg);
+  background-size: cover;
+  margin: 0;
+}
+.information {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.information div{
+    background-color: white;
+    text-align: center;
+    width: 100vw;
+    height: 30vh;
+    padding: 2%;
+    margin: 5% 2% 5% 2%;
+}
+.information i {
+  font-size: 4em;
+  color: rgb(119, 128, 117);
+}
